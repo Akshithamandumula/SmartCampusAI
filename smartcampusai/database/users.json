@@ -1,0 +1,171 @@
+{
+  "users": [
+    {
+      "name": "Akshitha Mandumula",
+      "student_id": "23X31A05A8",
+      "email": "mandumulaakshitha@gmail.com",
+      "password": "$2b$12$gpxHGgPc/B7cBP4oHB3PN.3L9aMmDkvLqt4gPF4/kUe3nFZ0Wcv.C",
+      "department": "Computer Science & Engineering",
+      "semester": "5th Semester",
+      "avatar_emoji": "\ud83d\udc69\u200d\ud83c\udf93",
+      "gpa": 3.92,
+      "attendance": 92.5,
+      "pending_assignments": 3,
+      "exams": 2,
+      "theme": "light",
+      "assignments": [
+        {
+          "id": 1,
+          "subject": "CS 301 - Artificial Intelligence",
+          "title": "Neural Networks Project",
+          "due_date": "2026-07-20",
+          "status": "Pending"
+        },
+        {
+          "id": 2,
+          "subject": "MAT 204 - Linear Algebra",
+          "title": "Eigenvalues Problem Set",
+          "due_date": "2026-07-18",
+          "status": "Pending"
+        },
+        {
+          "id": 3,
+          "subject": "CS 302 - Software Engineering",
+          "title": "Sprint 2 Architecture Design",
+          "due_date": "2026-07-22",
+          "status": "Pending"
+        },
+        {
+          "id": 4,
+          "subject": "CS 205 - Data Structures",
+          "title": "Balanced Binary Trees Lab",
+          "due_date": "2026-07-10",
+          "status": "Graded",
+          "grade": "A"
+        }
+      ],
+      "results": [
+        {
+          "course_code": "CS 205",
+          "course_name": "Data Structures",
+          "credits": 4,
+          "grade": "A",
+          "marks": 94
+        },
+        {
+          "course_code": "MAT 204",
+          "course_name": "Linear Algebra",
+          "credits": 3,
+          "grade": "A-",
+          "marks": 89
+        },
+        {
+          "course_code": "CS 302",
+          "course_name": "Software Engineering",
+          "credits": 4,
+          "grade": "B+",
+          "marks": 87
+        },
+        {
+          "course_code": "HUM 101",
+          "course_name": "Technical Writing",
+          "credits": 2,
+          "grade": "A",
+          "marks": 96
+        }
+      ],
+      "timetable": {
+        "Monday": [
+          {
+            "time": "09:00 AM - 10:30 AM",
+            "subject": "CS 301 - Artificial Intelligence",
+            "room": "Hall C"
+          },
+          {
+            "time": "11:00 AM - 12:30 PM",
+            "subject": "MAT 204 - Linear Algebra",
+            "room": "Room 102"
+          }
+        ],
+        "Tuesday": [
+          {
+            "time": "10:00 AM - 11:30 AM",
+            "subject": "CS 302 - Software Engineering",
+            "room": "Lab 4"
+          }
+        ],
+        "Wednesday": [
+          {
+            "time": "09:00 AM - 10:30 AM",
+            "subject": "CS 301 - Artificial Intelligence",
+            "room": "Hall C"
+          },
+          {
+            "time": "11:00 AM - 12:30 PM",
+            "subject": "MAT 204 - Linear Algebra",
+            "room": "Room 102"
+          }
+        ],
+        "Thursday": [
+          {
+            "time": "10:00 AM - 11:30 AM",
+            "subject": "CS 302 - Software Engineering",
+            "room": "Lab 4"
+          },
+          {
+            "time": "02:00 PM - 03:30 PM",
+            "subject": "HUM 101 - Technical Writing",
+            "room": "Room 201"
+          }
+        ],
+        "Friday": [
+          {
+            "time": "09:00 AM - 12:00 PM",
+            "subject": "CS 205 - Data Structures Lab",
+            "room": "Computer Lab B"
+          }
+        ]
+      },
+      "notifications": [
+        {
+          "id": 1,
+          "title": "Welcome to SmartCampusAI",
+          "message": "Explore your personalized student hub.",
+          "time": "Just now",
+          "read": false
+        },
+        {
+          "id": 2,
+          "title": "New Assignment Posted",
+          "message": "Neural Networks Project has been posted in CS 301.",
+          "time": "2 hours ago",
+          "read": false
+        },
+        {
+          "id": 3,
+          "title": "AI Suggestion",
+          "message": "Based on your progress, we recommend focusing on Neural Networks this week.",
+          "time": "2 days ago",
+          "read": false
+        }
+      ],
+      "activities": [
+        {
+          "time": "2026-07-14 22:10",
+          "type": "Auth",
+          "description": "Logged in successfully."
+        },
+        {
+          "time": "2026-07-14 21:42",
+          "type": "Auth",
+          "description": "Logged in successfully."
+        },
+        {
+          "time": "2026-07-14 21:41",
+          "type": "System",
+          "description": "Account registered successfully."
+        }
+      ]
+    }
+  ]
+}
